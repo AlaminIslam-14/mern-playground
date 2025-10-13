@@ -1,5 +1,7 @@
 # 🌐 HTML Assignment Challenge
 
+✨ _Mastering HTML one challenge at a time — from structure to interactivity!_
+
 This project showcases **10 fundamental and practical HTML challenges** — each crafted to strengthen core web development skills.  
 From semantic layout and multimedia embedding to forms, tables, and product listings — this project demonstrates a solid foundation in modern HTML structure and best practices.
 
@@ -18,7 +20,7 @@ From semantic layout and multimedia embedding to forms, tables, and product list
 
 ## 🔗 Live Preview
 
-👉 [Click Here to View Project](#)
+👉 [Click Here to View Project](https://inquisitive-sunflower-45fc8b.netlify.app/)
 
 ---
 
